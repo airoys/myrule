@@ -1,0 +1,28 @@
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+no-popups: myhdjav.net true
+* 72211b.com * block
+* dfgpocp888.com * block
+* tawk.to * block
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+lo-li.xyz czssr.top * block
+www.av01.tv google-analytics.com * block
+www.av01.tv twimg.com * block
+www.av01.tv twitter.com * block
+www.repaik.com baidu.com * block
+www.repaik.com baidustatic.com * block
+www.repaik.com myqcloud.com * block
+www.repaik.com seniverse.com * block
+www.repaik.com xianliao.me * block
+www.sdkvnbsu3.fun ae01.alicdn.com * block
+www.sdkvnbsu3.fun alicdn.com * block
+www.sdkvnbsu3.fun sc01.alicdn.com * block
+www.sdkvnbsu3.fun sc02.alicdn.com * block
+www.sdkvnbsu3.fun www.google-analytics.com * block
+www.yy.com * 3p-frame block
