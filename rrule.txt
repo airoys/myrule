@@ -1,0 +1,231 @@
+! https://bbs.kafan.cn
+bbs.kafan.cn##.a_pt
+bbs.kafan.cn##.a_pb
+bbs.kafan.cn##.xg2.ptn
+bbs.kafan.cn##.sign
+bbs.kafan.cn###scbar
+bbs.kafan.cn###fastsmilies
+||a.kafan.cn/template/comeing_city/style/t2/bg.jpg
+
+! https://www.iqiyi.com/
+www.iqiyi.com##.detail-sd
+www.iqiyi.com##.scroll-anchor
+www.iqiyi.com##.iqp-box-integral
+www.iqiyi.com###block-V
+list.iqiyi.com###block-V
+
+! https://www.yy.com
+www.yy.com###sideNotice
+||static.m.yy.com/group16/*
+||zonemin.bs2cdn.yy.com/group16/*
+||www.yy.com/ent/images/show/room/noble/*
+||web.yystatic.com/project/yycom/pc/images/components/*
+
+! https://v.6.cn
+v.6.cn##.imr
+v.6.cn###loginBox
+v.6.cn###page_mask
+v.6.cn##.side-tool
+v.6.cn###fire-rank
+v.6.cn###preTopGift
+v.6.cn##.gifts-hold
+v.6.cn##.menubar-box
+v.6.cn##.welfare-box
+v.6.cn##.fix.column2
+v.6.cn###rb_event_box
+v.6.cn###channelVideo
+v.6.cn##.channel-wall
+v.6.cn##.fInstall-tip
+v.6.cn##.vim-guide-msg
+v.6.cn###fansGroupFlag
+v.6.cn###gotohellflash
+v.6.cn##.quickSend-pop
+v.6.cn###realtime_panel
+v.6.cn##.home-focus-wrap
+v.6.cn###guide_attention
+v.6.cn###room_gift_panel
+v.6.cn###live-mobile-code
+v.6.cn##.gift-lottery-box
+v.6.cn##.super-gift-an-h5
+v.6.cn##.anchor-invite-pop
+v.6.cn##.guide-visitor-pack
+v.6.cn###weekstar_spurt_topp
+v.6.cn##.anchor-minivideo-pop
+v.6.cn##.egg19-float.egg19-box
+v.6.cn##.ui-draggable.talent-pop
+v.6.cn##.popular-pop-show.hotInfo
+||vr0.xiu123.cn/images/room/*/*
+||vr0.xiu123.cn/imges/room2017/*
+||vr0.xiu123.cn/imges/room2018/*
+||vr0.xiu123.cn/images/room2019/*
+||vr0.xiu123.cn/images/room2020/*
+||vr0.xiu123.cn/images/room/skbg/*
+||vr0.xiu123.cn/images/level/richFlash/*
+||vr0.xiu123.cn/images/room/skin_event/*
+||vi0.xiu123.cn/live/2015/07/27/12/*.png
+||vr0.xiu123.cn/imges/level/gift_new/*.png
+||vr0.xiu123.cn/imges/level/gift_new/*.gif
+||vr0.xiu123.cn/images/level/richFlash/v1/*.gif
+
+
+! https://www.iosh4.info
+www.ughim.com##.slider
+www.ughim.com##.v-modal
+www.ughim.com##.ublicity
+www.ughim.com##.inx-right
+www.ughim.com##.fast-entry
+www.ughim.com##.home-extra
+www.ughim.com##.banner-center
+www.ughim.com##.inx-banner.clearfix
+www.ughim.com##.animated.home > .el-dialog__wrapper
+
+www.ldfkv.com##.slider
+www.ldfkv.com##.v-modal
+www.ldfkv.com##.ublicity
+www.ldfkv.com##.inx-right
+www.ldfkv.com##.fast-entry
+www.ldfkv.com##.home-extra
+www.ldfkv.com##.banner-center
+www.ldfkv.com##.inx-banner.clearfix
+www.ldfkv.com##.animated.home > .el-dialog__wrapper
+
+knsadfjn.club##.slider
+knsadfjn.club##.v-modal
+knsadfjn.club##.ublicity
+knsadfjn.club##.inx-right
+knsadfjn.club##.fast-entry
+knsadfjn.club##.home-extra
+knsadfjn.club##.banner-center
+knsadfjn.club##.inx-banner.clearfix
+knsadfjn.club##.animated.home > .el-dialog__wrapper
+
+www.hjnmk.club##.slider
+www.hjnmk.club##.v-modal
+www.hjnmk.club##.ublicity
+www.hjnmk.club##.inx-right
+www.hjnmk.club##.fast-entry
+www.hjnmk.club##.home-extra
+www.hjnmk.club##.banner-center
+www.hjnmk.club##.inx-banner.clearfix
+www.hjnmk.club##.animated.home > .el-dialog__wrapper
+
+nvbfhgye.info##.slider
+nvbfhgye.info##.v-modal
+nvbfhgye.info##.ublicity
+nvbfhgye.info##.inx-right
+nvbfhgye.info##.fast-entry
+nvbfhgye.info##.home-extra
+nvbfhgye.info##.banner-center
+nvbfhgye.info##.inx-banner.clearfix
+nvbfhgye.info##.animated.home > .el-dialog__wrapper
+
+www.sdkvnbsu3.fun##.slider
+www.sdkvnbsu3.fun##.v-modal
+www.sdkvnbsu3.fun##.ublicity
+www.sdkvnbsu3.fun##.inx-right
+www.sdkvnbsu3.fun##.fast-entry
+www.sdkvnbsu3.fun##.home-extra
+www.sdkvnbsu3.fun##.banner-center
+www.sdkvnbsu3.fun##.inx-banner.clearfix
+www.sdkvnbsu3.fun##.animated.home > .el-dialog__wrapper
+
+5656mylove.com##.slider
+5656mylove.com##.v-modal
+5656mylove.com##.ublicity
+5656mylove.com##.inx-right
+5656mylove.com##.fast-entry
+5656mylove.com##.home-extra
+5656mylove.com##.banner-center
+5656mylove.com##.inx-banner.clearfix
+5656mylove.com##.animated.home > .el-dialog__wrapper
+
+
+||s.6y3rhbj.site/*/index/cross.js
+||s.6y3rhbj.site/*/flash/*/image/*
+||s.6y3rhbj.site/*/flash/*/Modules/skin/*
+||s.6y3rhbj.site/storage/uploads/*/oort/*
+||s.ckpaly.com/storage/uploads/*/oort/*
+||s.6y3rhbj.site/storage/uploads/s88888/goods/*
+||s.yg6t4d.info/*/flash/s2/CarGame.swf$object,domain=www.hjnmk.club
+
+! https://txtv34.com
+||xin365.org/hf/*
+||xin365.org/dbhftp/*
+||xin365.org/nrlbtp/*
+||xin365.org/nrcmtp/*
+||txtv101.com/skin/ecms082/images/KF-ZL.jpg
+
+! https://www.33dav.com
+||www.louimg.com/u/*
+
+! https://j2.app
+||www.lhc.ooo/images/*
+
+! https://121tom.com
+||cbu01.alicdn.com/img/ibank/*
+
+! http://vyytu.com
+||zhanqungg.com/tupian/*
+
+! https://javmix.tv
+javmix.tv###sidebar
+javmix.tv##.__isboostOverContent
+
+! http://128.14.157.255
+||128.14.157.255/template/9CCMSWAP/img/cp/*
+
+! http://09oh.com
+||sc02.alicdn.com/kf/*
+
+! https://cn.pornhub.com
+cn.pornhub.com##.mvHighLevel.mvVideoBlock
+
+! https://bet.hkjc.com
+bet.hkjc.com###betslipDiv
+
+! https://cn.jav101.com
+cn.jav101.com###shake
+cn.jav101.com##.ad.videoBox
+cn.jav101.com##.wuhan_remind
+cn-v.jav101.com###shake
+
+! https://52hyse.com
+||admin.q7qb4c7.com/static/images/*/*
+52hyse.com##.left_top.psd
+52hyse.com##.right_top.psd
+52hyse.com##.left_bottom.psd
+
+! https://www.tuokulu.xyz
+||static.tuokulu.xyz/koukoku/*
+www.tuokulu.xyz##.v--modal-background-click
+
+! http://www.0018x.com
+||ggg.dulidh.info/html/img/*
+||img.czywssj.com/*
+||sc01.alicdn.com/kf/*
+
+! https://weav.tpdz12.top
+||static.theporncdnimage.top/static/tmp/theporn/*
+||weav.tpdz12.top/static/tmp/theporn/*
+||static.pornvideocdn.xyz/static/tmp/theporn/*
+
+
+! https://www.freecam8.com
+www.freecam8.com###Ks
+www.freecam8.com###Ts
+www.freecam8.com###Ws
+www.freecam8.com###Xs
+
+! https://www.javbooks.com
+||www.javbooks.com/img/hgame/*
+||www.javbooks.com/img/91/*
+
+!  http://www.bimibimi.me
+www.bimibimi.me##.gg
+
+!  https://kissjav.com
+kissjav.com##.adv-container
+
+! https://nhh57.com
+nhh57.com##.cdk-overlay-container
+nhh57.com##.dplayer-loading-img.dplayer-images-item
