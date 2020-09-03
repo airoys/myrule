@@ -9,6 +9,7 @@ proxies:
 - {"name":"TW_424","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
 - {"name":"TW_425","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
 - {"name":"TW_426","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"TW_427","server":"59.125.11.158","port":8158,"type":"ssr","password":"passinfo123","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
 - {"name":"TW_430","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
 - {"name":"TW_431","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
 - {"name":"TW_432","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
@@ -19,6 +20,11 @@ proxies:
 - {"name":"TW_451","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
 - {"name":"TW_452","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
 - {"name":"TW_453","server":"103.51.140.72","port":35938,"type":"ss","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"TW_467","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"TW_468","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"TW_469","server":"103.51.140.72","port":35938,"type":"ss","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"TW_470","server":"210.65.91.2","port":25555,"type":"vmess","uuid":"6723b7dd-e9ad-4dcb-9191-44fdd33068f2","alterId":32,"cipher":"auto","network":"ws","http-opts":{},"ws-path":"/","skip-cert-verify":true}
+- {"name":"TW_471","server":"tw-02.ddns.style","port":13145,"type":"vmess","uuid":"eea6dc85-c278-3137-b742-938c687f435a","alterId":2,"cipher":"auto","network":"ws","http-opts":{},"ws-path":"/imga","ws-headers":{"HOST":"tw-02.ddns.style"},"skip-cert-verify":true,"servername":"tw-02.ddns.style"}
 proxy-groups:
   - name: Proxies
     type: select
@@ -27,6 +33,7 @@ proxy-groups:
       - TW_424
       - TW_425
       - TW_426
+      - TW_427
       - TW_430
       - TW_431
       - TW_432
@@ -37,6 +44,11 @@ proxy-groups:
       - TW_451
       - TW_452
       - TW_453
+      - TW_467
+      - TW_468
+      - TW_469
+      - TW_470
+      - TW_471
 rules:
  - DOMAIN-KEYWORD,1password,DIRECT
  - DOMAIN-SUFFIX,vultr.com,DIRECT
