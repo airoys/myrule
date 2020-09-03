@@ -5,6 +5,15 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+- {"name":"TW_423","server":"103.51.140.72","port":35938,"type":"ss","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"TW_424","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
+- {"name":"TW_425","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"TW_426","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"TW_430","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"TW_431","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"TW_432","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
+- {"name":"TW_433","server":"103.51.140.72","port":35938,"type":"ss","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"TW_434","server":"103.4.29.242","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
 - {"name":"TW_449","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
 - {"name":"TW_450","server":"103.4.29.242","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
 - {"name":"TW_451","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
@@ -14,6 +23,15 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
+      - TW_423
+      - TW_424
+      - TW_425
+      - TW_426
+      - TW_430
+      - TW_431
+      - TW_432
+      - TW_433
+      - TW_434
       - TW_449
       - TW_450
       - TW_451
