@@ -1,0 +1,78 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+- {"name":"TW_449","server":"103.51.140.72","port":34583,"type":"ss","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"TW_450","server":"103.4.29.242","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
+- {"name":"TW_451","server":"103.51.140.72","port":36133,"type":"ss","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"TW_452","server":"103.98.75.71","port":34007,"type":"ss","password":"Ant36ph4AX8fHx59fUTLxMqq","cipher":"aes-256-gcm"}
+- {"name":"TW_453","server":"103.51.140.72","port":35938,"type":"ss","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+proxy-groups:
+  - name: Proxies
+    type: select
+    proxies:
+      - TW_449
+      - TW_450
+      - TW_451
+      - TW_452
+      - TW_453
+rules:
+ - DOMAIN-KEYWORD,1password,DIRECT
+ - DOMAIN-SUFFIX,vultr.com,DIRECT
+ - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+ - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+ - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+ - DOMAIN-KEYWORD,github,Proxies
+ - DOMAIN-SUFFIX,github.com,Proxies
+ - DOMAIN-SUFFIX,github.io,Proxies
+ - DOMAIN-SUFFIX,githubapp.com,Proxies
+ - DOMAIN-SUFFIX,githubassets.com,Proxies
+ - DOMAIN-SUFFIX,githubusercontent.com,Proxies
+ - DOMAIN-SUFFIX,home-intl.console.aliyun.com,Proxies
+ - IP-CIDR,173.245.48.0/20,Proxies
+ - IP-CIDR,103.21.244.0/22,Proxies
+ - IP-CIDR,103.22.200.0/22,Proxies
+ - IP-CIDR,103.31.4.0/22,Proxies
+ - IP-CIDR,141.101.64.0/18,Proxies
+ - IP-CIDR,108.162.192.0/18,Proxies
+ - IP-CIDR,190.93.240.0/20,Proxies
+ - IP-CIDR,188.114.96.0/20,Proxies
+ - IP-CIDR,197.234.240.0/22,Proxies
+ - IP-CIDR,198.41.128.0/17,Proxies
+ - IP-CIDR,162.158.0.0/15,Proxies
+ - IP-CIDR,104.16.0.0/12,Proxies
+ - IP-CIDR,172.64.0.0/13,Proxies
+ - IP-CIDR,131.0.72.0/22,Proxies
+ - GEOIP,CN,DIRECT
+ - MATCH,Proxies
+ - DOMAIN-KEYWORD,1password,DIRECT
+ - DOMAIN-SUFFIX,vultr.com,DIRECT
+ - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+ - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+ - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+ - DOMAIN-KEYWORD,github,Proxies
+ - DOMAIN-SUFFIX,github.com,Proxies
+ - DOMAIN-SUFFIX,github.io,Proxies
+ - DOMAIN-SUFFIX,githubapp.com,Proxies
+ - DOMAIN-SUFFIX,githubassets.com,Proxies
+ - DOMAIN-SUFFIX,githubusercontent.com,Proxies
+ - DOMAIN-SUFFIX,home-intl.console.aliyun.com,Proxies
+ - IP-CIDR,173.245.48.0/20,Proxies
+ - IP-CIDR,103.21.244.0/22,Proxies
+ - IP-CIDR,103.22.200.0/22,Proxies
+ - IP-CIDR,103.31.4.0/22,Proxies
+ - IP-CIDR,141.101.64.0/18,Proxies
+ - IP-CIDR,108.162.192.0/18,Proxies
+ - IP-CIDR,190.93.240.0/20,Proxies
+ - IP-CIDR,188.114.96.0/20,Proxies
+ - IP-CIDR,197.234.240.0/22,Proxies
+ - IP-CIDR,198.41.128.0/17,Proxies
+ - IP-CIDR,162.158.0.0/15,Proxies
+ - IP-CIDR,104.16.0.0/12,Proxies
+ - IP-CIDR,172.64.0.0/13,Proxies
+ - IP-CIDR,131.0.72.0/22,Proxies
+ - GEOIP,CN,DIRECT
+ - MATCH,Proxies
