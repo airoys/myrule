@@ -302,3 +302,7 @@ www.ewqewqsz.com##.uk-grid-small.uk-grid.uk-float-right.player-r
 ! http://tuwzzs.com
 ||66ok168.com/qq/*
 
+! https://exoav.com
+exoav.com##.table
+exoav.com##.top
+exoav.com##.place
