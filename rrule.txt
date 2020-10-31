@@ -309,3 +309,4 @@ exoav.com##.place
 
 ! https://xhamster2.com
 xhamster2.com##.wiz-spa.wiz-spb
+xhamster.com##.wiz-spa.wiz-spb
