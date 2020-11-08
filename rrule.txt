@@ -139,6 +139,10 @@ www.sdkvnbsu3.fun##.animated.home > .el-dialog__wrapper
 5656mylove.com##.inx-banner.clearfix
 5656mylove.com##.animated.home > .el-dialog__wrapper
 
+www.s9ru.info##.home-extra
+www.s9ru.info##.banner-center
+www.s9ru.info##.slider
+
 ||s.lianhangzf.com/*/index/cross.js
 ||s.lianhangzf.com/*/flash/*/image/*
 ||s.lianhangzf.com/*/flash/*/Modules/skin/*
