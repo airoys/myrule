@@ -96,6 +96,9 @@ knsadfjn.club##.inx-right
 knsadfjn.club##.fast-entry
 knsadfjn.club##.home-extra
 knsadfjn.club##.banner-center
+knsadfjn.club##.bDWFjp.sc-qPlga
+knsadfjn.club##.kSIOTQ.sc-pJkiN
+knsadfjn.club##.ifjKIn.sc-fzowVh
 knsadfjn.club##.inx-banner.clearfix
 knsadfjn.club##.animated.home > .el-dialog__wrapper
 
