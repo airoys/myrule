@@ -96,6 +96,7 @@ knsadfjn.club##.inx-right
 knsadfjn.club##.fast-entry
 knsadfjn.club##.home-extra
 knsadfjn.club##.banner-center
+knsadfjn.club##.dfimkY.sc-pjstK
 knsadfjn.club##.bDWFjp.sc-qPlga
 knsadfjn.club##.kSIOTQ.sc-pJkiN
 knsadfjn.club##.ifjKIn.sc-fzowVh
