@@ -67,95 +67,29 @@ v.6.cn##.popular-pop-show.hotInfo
 ||vr0.xiu123.cn/imges/level/gift_new/*.gif
 ||vr0.xiu123.cn/images/level/richFlash/v1/*.gif
 
-
-! https://www.iosh4.info
-www.ughim.com##.slider
-www.ughim.com##.v-modal
-www.ughim.com##.ublicity
-www.ughim.com##.inx-right
-www.ughim.com##.fast-entry
-www.ughim.com##.home-extra
-www.ughim.com##.banner-center
-www.ughim.com##.inx-banner.clearfix
-www.ughim.com##.animated.home > .el-dialog__wrapper
-
-www.ldfkv.com##.slider
-www.ldfkv.com##.v-modal
-www.ldfkv.com##.ublicity
-www.ldfkv.com##.inx-right
-www.ldfkv.com##.fast-entry
-www.ldfkv.com##.home-extra
-www.ldfkv.com##.banner-center
-www.ldfkv.com##.inx-banner.clearfix
-www.ldfkv.com##.animated.home > .el-dialog__wrapper
-
+! http://knsadfjn.club
 knsadfjn.club##.slider
-knsadfjn.club##.v-modal
-knsadfjn.club##.ublicity
-knsadfjn.club##.inx-right
 knsadfjn.club##.fast-entry
 knsadfjn.club##.home-extra
 knsadfjn.club##.banner-center
 knsadfjn.club##.dfimkY.sc-pjstK
-knsadfjn.club##.bDWFjp.sc-qPlga
-knsadfjn.club##.kSIOTQ.sc-pJkiN
+knsadfjn.club##.fEdkRn.sc-pRFjI
 knsadfjn.club##.ifjKIn.sc-fzowVh
-knsadfjn.club##.inx-banner.clearfix
-knsadfjn.club##.animated.home > .el-dialog__wrapper
+knsadfjn.club##.el-dialog__body
+knsadfjn.club##.jHRaUk.sc-pReKu
+knsadfjn.club##.bDWFjp.sc-qPlga
 
-www.hjnmk.club##.slider
-www.hjnmk.club##.v-modal
-www.hjnmk.club##.ublicity
-www.hjnmk.club##.inx-right
-www.hjnmk.club##.fast-entry
-www.hjnmk.club##.home-extra
-www.hjnmk.club##.banner-center
-www.hjnmk.club##.inx-banner.clearfix
-www.hjnmk.club##.animated.home > .el-dialog__wrapper
-
-nvbfhgye.info##.slider
-nvbfhgye.info##.v-modal
-nvbfhgye.info##.ublicity
-nvbfhgye.info##.inx-right
-nvbfhgye.info##.fast-entry
-nvbfhgye.info##.home-extra
-nvbfhgye.info##.banner-center
-nvbfhgye.info##.inx-banner.clearfix
-nvbfhgye.info##.animated.home > .el-dialog__wrapper
-
-www.sdkvnbsu3.fun##.slider
-www.sdkvnbsu3.fun##.v-modal
-www.sdkvnbsu3.fun##.ublicity
-www.sdkvnbsu3.fun##.inx-right
-www.sdkvnbsu3.fun##.fast-entry
-www.sdkvnbsu3.fun##.home-extra
-www.sdkvnbsu3.fun##.banner-center
-www.sdkvnbsu3.fun##.inx-banner.clearfix
-www.sdkvnbsu3.fun##.animated.home > .el-dialog__wrapper
-
-5656mylove.com##.slider
-5656mylove.com##.v-modal
-5656mylove.com##.ublicity
-5656mylove.com##.inx-right
-5656mylove.com##.fast-entry
-5656mylove.com##.home-extra
-5656mylove.com##.banner-center
-5656mylove.com##.inx-banner.clearfix
-5656mylove.com##.animated.home > .el-dialog__wrapper
-
+! www.s9ru.info
 www.s9ru.info##.slider
+www.s9ru.info##.fast-entry
 www.s9ru.info##.home-extra
 www.s9ru.info##.banner-center
-www.s9ru.info##.bDWFjp.sc-qPlga
-www.s9ru.info##.jHRaUk.sc-pReKu
 www.s9ru.info##.dfimkY.sc-pjstK
+www.s9ru.info##.fEdkRn.sc-pRFjI
 www.s9ru.info##.ifjKIn.sc-fzowVh
-
-||s.lianhangzf.com/*/index/cross.js
-||s.lianhangzf.com/*/flash/*/image/*
-||s.lianhangzf.com/*/flash/*/Modules/skin/*
-||s.lianhangzf.com/storage/uploads/*/oort/*
-||s.lianhangzf.com/storage/uploads/s88888/goods/*
+www.s9ru.info##.el-dialog__body
+www.s9ru.info##.jHRaUk.sc-pReKu
+www.s9ru.info##.bDWFjp.sc-qPlga
 
 ! https://txtv34.com
 ||xin365.org/hf/*
@@ -164,30 +98,15 @@ www.s9ru.info##.ifjKIn.sc-fzowVh
 ||xin365.org/nrcmtp/*
 ||txtv101.com/skin/ecms082/images/KF-ZL.jpg
 
-! https://www.33dav.com
-||www.louimg.com/u/*
-
 ! https://j2.app
 ||www.lhc.ooo/images/*
-
-! https://121tom.com
-||cbu01.alicdn.com/img/ibank/*
 
 ! http://vyytu.com
 ||zhanqungg.com/tupian/*
 
-! https://javmix.tv
-javmix.tv###sidebar
-javmix.tv##.__isboostOverContent
-
-! http://128.14.157.255
-||128.14.157.255/template/9CCMSWAP/img/cp/*
-
 ! http://09oh.com
 ||sc02.alicdn.com/kf/*
-
-! https://cn.pornhub.com
-cn.pornhub.com##.mvHighLevel.mvVideoBlock
+||cbu01.alicdn.com/img/ibank/*
 
 ! https://bet.hkjc.com
 bet.hkjc.com###betslipDiv
