@@ -241,4 +241,5 @@ xhamster.com##.wio-aspa.wio-aspb
 xhamster2.com##.wio-aspa.wio-aspb
 xhamster.com##.wio-aspot-container.wio-aplayer
 xhamster2.com##.wio-aspot-container.wio-aplayer
+xhamster.com##.wio-aspot-container.list-items.wio-aright-rectangle
 xhamster2.com##.wio-aspot-container.list-items.wio-aright-rectangle
