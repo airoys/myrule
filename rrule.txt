@@ -237,5 +237,5 @@ exoav.com##.top
 exoav.com##.place
 
 ! https://xhamster2.com
-xhamster2.com##.wiz-spa.wiz-spb
-xhamster.com##.wiz-spa.wiz-spb
+xhamster.com##.wio-aspot-container.wio-aplayer
+xhamster.com##.wio-aspa.wio-aspb
