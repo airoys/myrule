@@ -226,7 +226,6 @@ www.ewqewqsz.com##.uk-grid-small.uk-grid.uk-float-right.player-r
 ||66.212.57.42:2020/ad/*
 
 ! http://mjdsr.com
-||*.alicdn.com/*
 ||128.14.138.67:6767/*
 ||23.238.250.195:8558/*
 
