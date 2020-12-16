@@ -49,11 +49,13 @@ v.6.cn##.gift-lottery-box
 v.6.cn##.super-gift-an-h5
 v.6.cn##.anchor-invite-pop
 v.6.cn##.guide-visitor-pack
+v.6.cn###room_video_left_top
 v.6.cn###weekstar_spurt_topp
 v.6.cn##.anchor-minivideo-pop
 v.6.cn##.egg19-float.egg19-box
 v.6.cn##.ui-draggable.talent-pop
 v.6.cn##.popular-pop-show.hotInfo
+v.6.cn##.yimaofans-nologin.yimaofans-box
 ||vr0.xiu123.cn/images/room/*/*
 ||vr0.xiu123.cn/imges/room2017/*
 ||vr0.xiu123.cn/imges/room2018/*
