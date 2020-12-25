@@ -244,3 +244,6 @@ xhamster.com##.wio-aspot-container.wio-aplayer
 xhamster2.com##.wio-aspot-container.wio-aplayer
 xhamster.com##.wio-aspot-container.list-items.wio-aright-rectangle
 xhamster2.com##.wio-aspot-container.list-items.wio-aright-rectangle
+
+! https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
