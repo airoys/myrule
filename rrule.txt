@@ -250,5 +250,6 @@ www.xvideos.com##.player-video.xv-cams-block
 
 ! https://erotic24hr.com
 erotic24hr.com##.col-md-4
+erotic24hr.com##.top-content
 erotic24hr.com##.col-4.advertising
 
