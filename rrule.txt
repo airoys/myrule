@@ -247,3 +247,8 @@ xhamster2.com##.wio-aspot-container.list-items.wio-aright-rectangle
 
 ! https://www.xvideos.com
 www.xvideos.com##.player-video.xv-cams-block
+
+! https://erotic24hr.com
+erotic24hr.com##.col-md-4
+erotic24hr.com##.col-4.advertising
+
