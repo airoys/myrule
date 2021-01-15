@@ -3,6 +3,7 @@ bbs.kafan.cn##.a_pt
 bbs.kafan.cn##.a_pb
 bbs.kafan.cn##.sign
 bbs.kafan.cn###scbar
+bbs.kafan.cn##.cl.bm_h
 bbs.kafan.cn##.xg2.ptn
 bbs.kafan.cn##.pbn.cl.bm_c
 bbs.kafan.cn###fastsmilies
