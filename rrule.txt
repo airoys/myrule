@@ -1,10 +1,12 @@
 ! https://bbs.kafan.cn
 bbs.kafan.cn##.a_pt
 bbs.kafan.cn##.a_pb
-bbs.kafan.cn##.xg2.ptn
 bbs.kafan.cn##.sign
 bbs.kafan.cn###scbar
+bbs.kafan.cn##.xg2.ptn
+bbs.kafan.cn##.pbn.cl.bm_c
 bbs.kafan.cn###fastsmilies
+bbs.kafan.cn##.cl.comeing_mu_area
 ||a.kafan.cn/template/comeing_city/style/t2/bg.jpg
 
 ! https://www.iqiyi.com/
