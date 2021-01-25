@@ -79,9 +79,14 @@ knsadfjn.club##.home-extra
 knsadfjn.club##.banner-center
 knsadfjn.club##.dfimkY.sc-pjstK
 knsadfjn.club##.fEdkRn.sc-pRFjI
-knsadfjn.club##.ifjKIn.sc-fzowVh
 knsadfjn.club##.jHRaUk.sc-pReKu
 knsadfjn.club##.bDWFjp.sc-qPlga
+knsadfjn.club##.kUecYO.sc-pQSRh
+knsadfjn.club##.dCfXDz.sc-pjstK
+knsadfjn.club##.boZyvg.sc-qYiqT
+knsadfjn.club##.xiUYk.sc-fzoJus
+knsadfjn.club##.ewSxVL.sc-fzqPZZ
+knsadfjn.club##.ifjKIn.sc-fzowVh
 
 ! www.s9ru.info
 www.s9ru.info##.slider
