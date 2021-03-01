@@ -11,12 +11,7 @@ bbs.kafan.cn##.cl.comeing_mu_area
 ||a.kafan.cn/template/comeing_city/style/t2/bg.jpg
 
 ! https://erotic24hr.com
-erotic24hr.com##.social
-erotic24hr.com##.socials
-erotic24hr.com##.col-md-4
-erotic24hr.com##.text-center.adv
-erotic24hr.com##.col-4.advertising
-erotic24hr.com##.container > .separator
+
 
 
 
