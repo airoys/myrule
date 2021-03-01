@@ -21,16 +21,17 @@
 ; Date: 2021/3/1
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+||1024nf.com
 ||1room2.com
+||29xu.com
 ||2mdn.net
 ||7day.icu
-||29xu.com
 ||85tube.com
 ||85tube.net
-||1024nf.com
 ||baipiaoyun.xyz
 ||bindkaili.com
 ||bit.ly
+||bitporno.com
 ||bootstrapcdn.com
 ||bskchina.cn
 ||cartoonmad.com
@@ -50,14 +51,16 @@
 ||greasyfork.org
 ||highwebmedia.com
 ||hkjc.com
+||hqq.to
 ||iporntv.net
-||jav101.com
 ||jav.guru
 ||jav.sh
+||jav101.com
 ||javbus.com
 ||javchill.com
 ||javtiful.com
 ||jnhyouxi.com
+||jpav.ml
 ||jquery.com
 ||kdh010.com
 ||kissjav.com
@@ -90,6 +93,7 @@
 ||tom371.com
 ||tomtop.xyz
 ||vidol.tv
+||vkcdnservice.com
 ||xoxmh.com
 ||yandex.net
 ||yastatic.net
