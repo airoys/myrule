@@ -15,6 +15,89 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+!---------my rule!---------
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2021/3/1
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.jav101.com
+*.yueyenongye.cn
+*.hkjc.com
+*.starfieldtech.com
+*.pornhub.com
+*.github.com
+*.lianyexiuchang.cx
+*.1room2.com
+*.cartoonmad.com
+*.jnhyouxi.com
+*.bindkaili.com
+*.seyuge.icu
+*.maomiav.com
+*.sxsav.xyz
+*.kdh010.com
+*.tom371.com
+*.javchill.com
+*.highwebmedia.com
+*.rdtcdn.com
+*.redtube.com
+*.yastatic.net
+*.yandex.net
+*.xoxmh.com
+*.popkontv.com
+*.iporntv.net
+*.setn.com
+*.jav.guru
+*.baipiaoyun.xyz
+*.jav.sh
+*.javtiful.com
+*.kissjav.com
+*.tomtop.xyz
+*.javbus.com
+*.esu.dog
+*.d8r5y.info
+*.sexbjcam.com
+*.ddos2.cc
+*.cxkv2.xyz
+*.yotaogou.com
+*.mega.co.nz
+*.techspot.com
+*.plyr.io
+*.doodcdn.com
+*.o0-1.com
+*.greasyfork.org
+*.oixxb.com
+*.lajiaopic.com
+*.maccms.com
+*.bskchina.cn
+*.bootstrapcdn.com
+*.jquery.com
+*.dagewokuaitule.icu
+*.2mdn.net
+*.dmcdn.net
+*.85tube.com
+*.pyvugygry.pro
+*.85tube.net
+*.prprcloud.com
+*.sugoideas.com
+*.cloudflare.com
+*.dropboxstatic.com
+*.bit.ly
+*.newsofcar.net
+*.srgoideas.com
+*.vidol.tv
+*.dai.ly
+*.myself-bbs.com
+*.7day.icu
+*.29xu.com
+*.tktube.com
+*.1024nf.com
+*.coolinet.net
+*.yocoolnet.in
+*.chaturbate.com
+*.lshiji.top
+
+
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
