@@ -21,6 +21,33 @@
 ; Date: 2021/3/1
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+||sbvideocdn.com
+||dmm.co.jp
+||netflav.com
+||javrclub.club
+||fvs.io
+||javrave.club
+||sentry.io
+||mfcimg.com
+||myfreecams.com
+||rec-tube.com
+||dditscdn.com
+||livejasmin.com
+||bongacams.com
+||fc2.com
+||livechatfc2.com
+||vscdns.com
+||vs3.com
+||us-central1-vsm-bigdata.cloudfunctions.net
+||camsoda.com
+||livemediahost.com
+||xcdnpro.com
+||omniappz.com
+||visualwebsiteoptimizer.com
+||camster.com
+||cam4.com
+||xlovecam.com
+
 ||1024nf.com
 ||1room2.com
 ||29xu.com
