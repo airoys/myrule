@@ -21,28 +21,7 @@
 ; Date: 2021/3/1
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-||ff-01 .com
-||ff-02 .com
-||ff-03 .com
-||ff-04 .com
-||ff-05 .com
-||ff-06 .com
-||ff-07 .com
-||ff-08 .com
-||ff-09 .com
-||ff-010.com
-||ff-011.com
-||ff-012.com
-||ff-013.com
-||ff-014.com
-||ff-015.com
-||ff-016.com
-||ff-017.com
-||ff-018.com
-||ff-019.com
-||ff-020.com
-||ff-021.com
-||ff-022.com
+
 ||1024nf.com
 ||1room2.com
 ||29xu.com
