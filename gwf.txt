@@ -21,6 +21,14 @@
 ; Date: 2021/3/1
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+||mxdcontent.net
+||mixdrop.to
+||bitporno.com
+||erotic24hr.com
+||xhamsterlive.com
+||stripst.com
+||stripchat.com
+||tampermonkey.freetls.fastly.net
 
 ||1024nf.com
 ||1room2.com
