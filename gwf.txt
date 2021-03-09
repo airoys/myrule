@@ -7,19 +7,27 @@
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------my rule!---------
-[SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 2021/3/1
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+||d18t35yyry2k49.cloudfront.net
+||easiesttangle.com
+||alexametrics.com
+||evoload.io
+||dood.video
+||doodstream.com
+||streamtape.com
+||mxdcontent.net
+||tapecontent.net
+||cloudflare.com
+||evosrv.com
+
+||megaupload.com
+||vcdn.io
+||streamsb.net
+||sbvideocdn.com
+||nincontent.com
+||popjav.tv
+||xvideos-cdn.com
 
 ||mxdcontent.net
 ||mixdrop.to
