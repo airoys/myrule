@@ -20,8 +20,11 @@ erotic24hr.com##.description > div.separator > [href="https://bit.ly/2NDgi4g"]
 ! https://www.yy.com
 www.yy.com##.p-header
 www.yy.com##.w-liveplayer-side
+www.yy.com##.yycom_live-sidebar
 www.yy.com##.w-liveplayer-present
 www.yy.com##.w-liveplayer-head__btn
+www.yy.com##.studio-recommend-wrapper
+www.yy.com##.yycom_live-video_area-giftbar
 
 ||ks-flv-ipv6.yy.com/live/*
 ||cdn.hiido.com/sdk/websdk.js
