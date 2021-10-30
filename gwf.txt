@@ -1,10 +1,68 @@
 [AutoProxy 0.2.9]
 ! Last Modified: Tue, 06 Jul 2021 09:48:56 -0400
 !
-! HomePage: https://github.com/gfwlist/gfwlist
+! HomePage: https://github.com/gfwlist/gfwlist https://raw.githubusercontent.com/airoys/myrule/master/gwf.txt
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 
 !---------my rule!---------
+||kissjav.com
+||muwai.com
+||99av.tv
+||7mmtv.tv
+||dmm.co.jp
+||netflav.com
+||adguard.com
+||videohelp.com
+||webmota.com
+||twocomic.com
+||manhuagui.com
+||tubeasiancams.com
+||incrack.pro
+||r18.com
+||3250mh.com
+||52haicao.com
+||bongacams.com
+||nudelive.com
+||china-korea.org
+||simanhua.com
+||1359mh.com
+@@||strpst.com
+||cam7.com
+||3pc3.com
+||love127.com
+||mh1234.com
+||cam4.com
+||baozimh.com
+||myfreecams.com
+||mfcimg.com
+||vs4.com
+||camster.com
+||vscdns.com
+||us-central1-vsm-bigdata.cloudfunctions.net
+||gstatic.com
+||vs3.com
+||xlovecam.com
+||dmca.com
+||camsoda.com
+||chaturbate.com
+||mmcdn.com
+||highwebmedia.com
+||hjd2048.com
+||svipfuli3.com
+||laowang.vip
+||91rb.net
+||avtb01.com
+||cloudflare.com
+||sc-apps.com
+||xhamsterlive.com
+||stripchat.com
+||kissjav.com
+||redtube.com
+||128100.xyz
+||cableav.tv
+||tktube.com
+
+
 
 [AutoProxy 0.2.9]
 ! Checksum: ZYhaJ2vBDVNWAHPFFrhk0w
