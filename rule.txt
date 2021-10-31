@@ -43,7 +43,10 @@ www.yy.com##.yycom_live-video_area-giftbar
 ! https://www.manhuacat.com
 www.manhuacat.com###footer
 
-
+! https://www.cocomanga.com
+www.cocomanga.com##.mh_footpager
+www.cocomanga.com##.clear.endtip2
+www.cocomanga.com##.fed-back-whits.fed-part-layout.fed-foot-info
 
 
 
