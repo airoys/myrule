@@ -48,7 +48,11 @@ www.cocomanga.com##.mh_footpager
 www.cocomanga.com##.clear.endtip2
 www.cocomanga.com##.fed-back-whits.fed-part-layout.fed-foot-info
 
-
+! https://byj4.me
+||pic.81image.com/*.gif
+byj4.me##.show.fade.modal
+byj4.me##.show.fade.modal-backdrop
+byj4.me##.w-auto.text-center.fixed-bottom
 
 
 
