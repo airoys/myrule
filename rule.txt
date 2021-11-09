@@ -17,28 +17,6 @@ erotic24hr.com##.top-content
 erotic24hr.com##.related-videos
 erotic24hr.com##.description > div.separator > [href="https://bit.ly/2NDgi4g"]
 
-! https://www.yy.com
-www.yy.com##.p-header
-www.yy.com##.w-liveplayer-side
-www.yy.com##.yycom_live-sidebar
-www.yy.com##.w-liveplayer-present
-www.yy.com##.w-liveplayer-head__btn
-www.yy.com##.studio-recommend-wrapper
-www.yy.com##.yycom_live-video_area-giftbar
-
-||ks-flv-ipv6.yy.com/live/*
-||cdn.hiido.com/sdk/websdk.js
-||hdjs.hiido.com/hiido_internal.js
-||www.yy.com/yyweb/aq/switch/ask
-||web2.yystatic.com/project/h5_service/*
-||web.yystatic.com/project/yycom/pc/js/*.js
-||web.yystatic.com/project/yycom_header/pc/js/*.js
-||web.yystatic.com/project/yycom/pc/css/left-*.css?*
-||web2.yystatic.com/project/yyplayer_deploy/yycom/lib/*
-||web.yystatic.com/public/global/legacyBrowser/js/legacyBrowser.js
-||web.yystatic.com/project/yycom_footer/pc/css/index-5eb00ccc.css?*
-||web.yystatic.com/project/yycom_live/pc/css/recommend-eebb5a72.css?*
-||web2.yystatic.com/project/yyplayer_deploy/yycom/processors/YY/LiveStreaming/*
 
 ! https://www.manhuacat.com
 www.manhuacat.com###footer
