@@ -4,7 +4,19 @@
 ! HomePage: https://github.com/gfwlist/gfwlist https://raw.githubusercontent.com/airoys/myrule/master/gwf.txt
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 
+-----------------白名单----------------------
+@@||webmota.com
+@@||strpst.com
+
+------------------------------------------------
+
 !---------my rule!---------
+||henryclass.com
+||dandanav.com
+||javmec.com
+||mhkami.com
+||baozimh.com
+||madou.club
 ||byj4.me
 ||fluidplayer.com
 ||banyinjia4.com
@@ -28,7 +40,6 @@
 ||china-korea.org
 ||simanhua.com
 ||1359mh.com
-@@||strpst.com
 ||cam7.com
 ||3pc3.com
 ||love127.com
