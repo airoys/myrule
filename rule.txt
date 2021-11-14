@@ -32,6 +32,19 @@ byj4.me##.show.fade.modal
 byj4.me##.show.fade.modal-backdrop
 byj4.me##.w-auto.text-center.fixed-bottom
 
+! http://m.sixmh7.com
+m.sixmh7.com###adhtml
+m.sixmh7.com##.comic-recommend
+
+!  http://m.qiximh1.com
+m.qiximh1.com##.paddingBottom.comments
+m.qiximh1.com##.pinglunadd-btn
+
+! https://www.7dav.xyz
+www.7dav.xyz###adv
+
+!  http://www.dandanav.com
+www.dandanav.com###tanchuang
 
 
 
