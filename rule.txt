@@ -46,5 +46,21 @@ www.7dav.xyz###adv
 !  http://www.dandanav.com
 www.dandanav.com###tanchuang
 
+! http://www.kuman57.com
+www.kuman57.com##.box
 
+!  https://www.camsoda.com
+www.camsoda.com##.promo-module__wrapper--amnGm
+
+! https://cams.livefreecams.com
+cams.livefreecams.com##.promo-module__wrapper--amnGm
+
+! http://qiman56.com
+qiman56.com##.read-end
+qiman56.com##.comment-input-box
+qiman56.com##.hide.comment-box
+qiman56.com##.guide-download
+
+!  http://www.kmwu6.com
+www.kmwu6.com##.box
 
