@@ -64,3 +64,39 @@ qiman56.com##.guide-download
 !  http://www.kmwu6.com
 www.kmwu6.com##.box
 
+! https://www.manhuatai.com
+www.manhuatai.com##.read-floader-menu
+www.manhuatai.com##.sidebar-show.sidebar-narrow.guess-sidebar
+
+! https://www.168manhua.com
+www.168manhua.com##.footer
+www.168manhua.com##.comic-comment.w996
+
+! https://www.maofly.com
+www.maofly.com##._2IQWz
+
+! https://ww1.chinababe.net
+ww1.chinababe.net##.site-footer.container
+ww1.chinababe.net###top-bb
+ww1.chinababe.net##.is-draggable.flickity-enabled.javbabe-carousel
+
+! https://www.hm560.xyz
+www.hm560.xyz##div.lead.text-center:nth-of-type(3)
+
+! https://xygav.com
+xygav.com##.add
+xygav.com##.container
+
+! https://www.manhuagui.com
+www.manhuagui.com##.footer-main
+
+! https://www.hm350.xyz
+||3332215.com/9e5c5c36773d457da52a45f6b45c60fb.gif$image
+
+! https://fs25.xyz
+fs25.xyz###t5c4997d96b0f0dba7c74773f0b352eae
+
+! https://swagporn.xyz
+swagporn.xyz##cloudflare-app
+swagporn.xyz##.happy-header
+swagporn.xyz##.testes
