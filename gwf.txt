@@ -5,7 +5,7 @@
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 
 -----------------白名单----------------------
-@@||webmota.com
+
 @@||strpst.com
 
 ------------------------------------------------
@@ -34,7 +34,6 @@
 ||dandanav.com
 ||javmec.com
 ||mhkami.com
-||baozimh.com
 ||madou.club
 ||byj4.me
 ||fluidplayer.com
@@ -64,7 +63,6 @@
 ||love127.com
 ||mh1234.com
 ||cam4.com
-||baozimh.com
 ||myfreecams.com
 ||mfcimg.com
 ||vs4.com
