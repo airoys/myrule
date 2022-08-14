@@ -55,10 +55,10 @@ www.camsoda.com##.promo-module__wrapper--amnGm
 cams.livefreecams.com##.promo-module__wrapper--amnGm
 
 ! http://qiman56.com
-qiman56.com##.read-end
-qiman56.com##.comment-input-box
-qiman56.com##.hide.comment-box
-qiman56.com##.guide-download
+qiman57.com##.read-end
+qiman57.com##.comment-input-box
+qiman57.com##.hide.comment-box
+qiman57.com##.guide-download
 
 !  http://www.kmwu6.com
 www.kmwu6.com##.box
