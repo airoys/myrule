@@ -16,6 +16,62 @@ erotic24hr.com##.top-content
 erotic24hr.com##.related-videos
 erotic24hr.com##.description > div.separator > [href="https://bit.ly/2NDgi4g"]
 
+! https://v.6.cn
+v.6.cn##.imr
+v.6.cn###loginBox
+v.6.cn###page_mask
+v.6.cn##.side-tool
+v.6.cn###fire-rank
+v.6.cn###preTopGift
+v.6.cn##.gifts-hold
+v.6.cn##.menubar-box
+v.6.cn##.welfare-box
+v.6.cn##.fix.column2
+v.6.cn###rb_event_box
+v.6.cn###channelVideo
+v.6.cn##.channel-wall
+v.6.cn##.fInstall-tip
+v.6.cn##.vim-guide-msg
+v.6.cn###fansGroupFlag
+v.6.cn###gotohellflash
+v.6.cn##.quickSend-pop
+v.6.cn###realtime_panel
+v.6.cn##.home-focus-wrap
+v.6.cn###guide_attention
+v.6.cn###room_gift_panel
+v.6.cn###live-mobile-code
+v.6.cn##.gift-lottery-box
+v.6.cn##.super-gift-an-h5
+v.6.cn##.anchor-invite-pop
+v.6.cn##.guide-visitor-pack
+v.6.cn###weekstar_spurt_topp
+v.6.cn##.anchor-minivideo-pop
+v.6.cn##.egg19-float.egg19-box
+v.6.cn##.ui-draggable.talent-pop
+v.6.cn##.popular-pop-show.hotInfo
+v.6.cn##.iframe-box
+v.6.cn##.coopPlayerPop-show.coopPlayerPop
+v.6.cn##.fix.column3
+v.6.cn##.header-room
+v.6.cn##.fix.room-foot
+v.6.cn##.list-wrap
+v.6.cn##.header-home-area
+
+||*.xiu123.cn/images/room/*/*
+||*.xiu123.cn/imges/room2017/*
+||*.xiu123.cn/imges/room2018/*
+||*.xiu123.cn/images/room2019/*
+||*.xiu123.cn/images/room2020/*
+||*.xiu123.cn/images/room2021/*
+||*.xiu123.cn/images/room2022/*
+||*.xiu123.cn/images/room/skbg/*
+||*.xiu123.cn/images/level/richFlash/*
+||*.xiu123.cn/images/room/skin_event/*
+||*.xiu123.cn/live/2015/07/27/12/*.png
+||*.xiu123.cn/imges/level/gift_new/*.png
+||*.xiu123.cn/imges/level/gift_new/*.gif
+||*.xiu123.cn/images/level/richFlash/v1/*.gif
+
 
 ! https://www.manhuacat.com
 www.manhuacat.com###footer
